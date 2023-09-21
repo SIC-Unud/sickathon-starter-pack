@@ -27,5 +27,18 @@ for further information on connecting to the database
 ```bash
 https://experimental-connection.streamlit.app/
 ```
-
+## Datasets 
+- [Diabetes dataset]
+```bash
+https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
+```
+## Free database hosting 
+- [Freesqldatabase]
+```bash
+https://www.freesqldatabase.com/
+```
+if you are still confused about how to hosting the database, check this link below
+```bash
+https://www.youtube.com/watch?v=TMGHOW8Hzvw&t=438s
+```
 
