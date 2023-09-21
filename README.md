@@ -1,2 +1,31 @@
-# sickathon-starter-pack
-This repository was created as a learning resource for SICKATHON (SIC Hackathon) participants
+# Sickathon-Starter-Pack
+
+example project for Sickathon
+
+## Prerequisites
+
+- [Python 3.10](https://www.python.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+
+## Setup
+Before starting, you need to install some packages.
+
+```bash
+python -m venv venv
+```
+After that, activate the virtual environment.
+```bash
+source venv/bin/activate
+```
+Then, install the packages.
+```bash
+pip install streamlit
+```
+## Documentation 
+for further information on connecting to the database 
+```bash
+https://experimental-connection.streamlit.app/
+```
+
+
