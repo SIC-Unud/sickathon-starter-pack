@@ -28,12 +28,12 @@ for further information on connecting to the database
 https://experimental-connection.streamlit.app/
 ```
 ## Datasets 
-- [Diabetes dataset]
+- Diabetes dataset
 ```bash
 https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 ```
 ## Free database hosting 
-- [Freesqldatabase]
+- Freesqldatabase
 ```bash
 https://www.freesqldatabase.com/
 ```
