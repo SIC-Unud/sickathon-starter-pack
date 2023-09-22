@@ -18,6 +18,15 @@ source venv/bin/activate
 ```bash
 pip install streamlit
 ```
+## Learning Resources
+- Basic Streamlit include projetcs
+```bash
+https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE
+```
+- Basic SQL Syntax
+```bash
+https://www.w3schools.com/sql/
+```
 ## Documentation 
 for further information about how to connect with database
 ```bash
@@ -40,6 +49,10 @@ https://www.youtube.com/watch?v=TMGHOW8Hzvw&t=438s
 - Diabetes datasets
 ```bash
 https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
+```
+- Spotify datasets
+```bash
+https://www.kaggle.com/code/aeryan/spotify-music-analysis/input
 ```
 ## Links of Example project
 - Diabetes analysis
