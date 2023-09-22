@@ -19,52 +19,25 @@ source venv/bin/activate
 pip install streamlit
 ```
 ## Learning Resources
-- Basic Streamlit include projetcs
-```bash
-https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE
-```
-- Basic SQL Syntax
-```bash
-https://www.w3schools.com/sql/
-```
+- [Basic Streamlit include projetcs](https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE)
+- [Basic SQL Syntax](https://www.w3schools.com/sql/) 
+
 ## Documentation 
-for further information about how to connect with database
-```bash
-https://docs.streamlit.io/library/advanced-features/connecting-to-data
-```
-for further information about how to deploy streamlit app
-```bash
-https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
-```
+- [connect with database](https://docs.streamlit.io/library/advanced-features/connecting-to-data)
+- [deploy streamlit app](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app)
+
 ## Free Database Hosting
-- freesqldatabase
-```bash
-https://www.freesqldatabase.com/
-```
-if you are still confused on how to hosting the database, check this link below
-```bash
-https://www.youtube.com/watch?v=TMGHOW8Hzvw&t=438s
-```
+- [freesqldatabase](https://www.freesqldatabase.com/)
+- [filess.io](https://filess.io/)
+- [Hosting database tutorial](https://www.youtube.com/watch?v=TMGHOW8Hzvw&t=438s)
+
 ## Datasets
-- Diabetes datasets
-```bash
-https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
-```
-- Spotify datasets
-```bash
-https://www.kaggle.com/code/aeryan/spotify-music-analysis/input
-```
+- [Diabetes datasets](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+- [Spotify datasets](https://www.kaggle.com/code/aeryan/spotify-music-analysis/input)
+
 ## Project Example Links
-- Diabetes analysis
-```bash
-https://d6dyglq36edhufnb5tgclf.streamlit.app/
-```
-- Spotify visualization
-```bash
-https://app-datavisualization-6z8fscwydnjigkf4kadxzn.streamlit.app/Database_preparation
-```
--  Data buku Visualization
-```bash
-https://bukudatasets.streamlit.app/
-```
+- [Diabetes analysis](https://d6dyglq36edhufnb5tgclf.streamlit.app/)
+- [Spotify visualization](https://app-datavisualization-6z8fscwydnjigkf4kadxzn.streamlit.app/Database_preparation)
+- [Data buku Visualization](https://bukudatasets.streamlit.app/)
+
 
