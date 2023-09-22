@@ -54,7 +54,7 @@ https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 ```bash
 https://www.kaggle.com/code/aeryan/spotify-music-analysis/input
 ```
-## Links of Example project
+## Project Example Links
 - Diabetes analysis
 ```bash
 https://d6dyglq36edhufnb5tgclf.streamlit.app/
@@ -62,5 +62,9 @@ https://d6dyglq36edhufnb5tgclf.streamlit.app/
 - Spotify visualization
 ```bash
 https://app-datavisualization-6z8fscwydnjigkf4kadxzn.streamlit.app/Database_preparation
+```
+-  Data buku Visualization
+```bash
+https://bukudatasets.streamlit.app/
 ```
 
