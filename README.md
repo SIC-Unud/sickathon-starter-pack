@@ -34,10 +34,13 @@ pip install streamlit
 ## Datasets
 - [Diabetes datasets](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
 - [Spotify datasets](https://www.kaggle.com/code/aeryan/spotify-music-analysis/input)
+- [Relational dataset history](https://relational.fit.cvut.cz/)
+- [Books datasets](https://drive.google.com/drive/folders/1qrC-pfRvFVV1eZmMLh_s9-3U26lFGuli?usp=sharing)
 
 ## Project Example Links
 - [Diabetes analysis](https://d6dyglq36edhufnb5tgclf.streamlit.app/)
 - [Spotify visualization](https://app-datavisualization-6z8fscwydnjigkf4kadxzn.streamlit.app/Database_preparation)
 - [Data buku Visualization](https://bukudatasets.streamlit.app/)
+- [Netflix analysis](https://neflix-analysis-sickathon.streamlit.app/)
 
 
