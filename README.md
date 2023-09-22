@@ -36,6 +36,7 @@ pip install streamlit
 - [Spotify datasets](https://www.kaggle.com/code/aeryan/spotify-music-analysis/input)
 - [Relational dataset history](https://relational.fit.cvut.cz/)
 - [Books datasets](https://drive.google.com/drive/folders/1qrC-pfRvFVV1eZmMLh_s9-3U26lFGuli?usp=sharing)
+- [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Project Example Links
 - [Diabetes analysis](https://d6dyglq36edhufnb5tgclf.streamlit.app/)
