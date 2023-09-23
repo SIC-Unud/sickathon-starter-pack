@@ -43,5 +43,6 @@ pip install streamlit
 - [Spotify visualization](https://app-datavisualization-6z8fscwydnjigkf4kadxzn.streamlit.app/Database_preparation)
 - [Data buku Visualization](https://bukudatasets.streamlit.app/)
 - [Netflix analysis](https://neflix-analysis-sickathon.streamlit.app/)
+- [Docutalk](https://docutalk.streamlit.app/)
 
 
