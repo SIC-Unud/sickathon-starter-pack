@@ -45,4 +45,9 @@ pip install streamlit
 - [Netflix analysis](https://neflix-analysis-sickathon.streamlit.app/)
 - [Iris analysis](https://sickathon-example.streamlit.app/)
 
+## Source Code
+- [Diabetes analysis](https://github.com/TeddyDharma/Diabetes_Analyst)
+- [Netflix analysis](https://github.com/LvnnnX/Sickathon-mentor)
+- [Iris analysis](https://github.com/putuwaw/sickathon-example)
+
 
